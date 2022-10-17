@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ajinkya-Kardile
 - 👀 I’m interested in Android Development
-- 🌱 I’m currently learning B.Tech in IT
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently pursuing my btech degree in Information Technology
 - 📫 How to reach me- twitter- @Ajinkya_Kardile 
 
 <!---
