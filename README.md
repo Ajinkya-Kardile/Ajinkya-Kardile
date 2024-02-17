@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajinkya</h1>
-<h3 align="center">I’m currently pursuing my B.Tech degree in Information Technology</h3>
+<h3 align="center">I’m currently working at Adgebra as a Java Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/ajinkya_kardile" target="blank"><img src="https://img.shields.io/twitter/follow/ajinkya_kardile?logo=twitter&style=for-the-badge" alt="ajinkya_kardile" /></a> </p>
 
