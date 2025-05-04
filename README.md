@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/ajinkya_kardile" target="blank"><img src="https://img.shields.io/twitter/follow/ajinkya_kardile?logo=twitter&style=for-the-badge" alt="ajinkya_kardile" /></a> </p>
 
-- 🔭 I’m currently working on [PrettyMeal-An Android Project](https://github.com/Ajinkya-Kardile/PrettyMeal)
+- 🔭 I’m currently working on [EMI Calculator tool](https://emicalculatortool.in/)
 
-- 🌱 I’m currently learning **Ethical Hacking**
+- 🌱 I’m currently Exploring **Google Cloud Platform**
 
-- 💬 Ask me about **Android Development | Java**
+- 💬 Ask me about **React | Java | Spring Boot**
 
 - 📫 How to reach me **https://www.linkedin.com/in/ajinkya-kardile-951569218/**
 
